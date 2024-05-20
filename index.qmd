@@ -1,0 +1,19 @@
+---
+title: "Dados do Atlas"
+---
+
+Página para monitorar portal do Atlas do Estado Brasileiro.
+
+
+
+![](files/logo.png)
+
+
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+
+
+
