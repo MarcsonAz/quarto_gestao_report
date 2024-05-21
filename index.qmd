@@ -9,6 +9,45 @@ Página para monitorar portal do Atlas do Estado Brasileiro.
 ![](files/logo.png)
 
 
+---
+format: html
+---
+
+::: {.row}
+::: {.col-md-4}
+::: {.card style="width: 18rem;"}
+::: {.card-body}
+# Card 1
+*Subtitle*
+
+This is the first card in a grid layout.
+:::
+:::
+:::
+
+::: {.col-md-4}
+::: {.card style="width: 18rem;"}
+::: {.card-body}
+# Card 2
+*Subtitle*
+
+The value from the data frame is: `r mtcars$mpg[1]`
+:::
+:::
+:::
+
+
+::: {.col-md-4}
+::: {.card style="width: 18rem;"}
+::: {.card-body}
+# Card 3
+*Subtitle*
+
+This is the third card in a grid layout.
+:::
+:::
+:::
+:::
 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

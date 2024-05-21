@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Dados do Atlas",
     "section": "",
-    "text": "Página para monitorar portal do Atlas do Estado Brasileiro.\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Página para monitorar portal do Atlas do Estado Brasileiro.\n\n\n\n\n\nCard 1\nSubtitle\nThis is the first card in a grid layout.\n\n\n\n\n\n\nCard 2\nSubtitle\nThe value from the data frame is: r mtcars$mpg[1]\n\n\n\n\n\n\nCard 3\nSubtitle\nThis is the third card in a grid layout.\n\n\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
